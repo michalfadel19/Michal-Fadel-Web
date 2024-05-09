@@ -478,12 +478,13 @@ section {
 }
 
 .button1 {
-	background-color: #33A5FF  ;
+	background-color: #0B68B2  ;
 	color: black;
 	font-size: 12px;
 	padding: 12px 28px;
-	border-radius: 12px;
+	border-radius: 2px;
 	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	float: left;
 	}
 
 
